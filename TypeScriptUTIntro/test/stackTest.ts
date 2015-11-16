@@ -1,13 +1,5 @@
 ﻿/// <reference path="../src/stack.ts" />
 /// <reference path="../def/qunit.d.ts" />
-/// <reference path="../def/sinon.d.ts" />
-
-//type SinonSandbox = Sinon.SinonSandbox;
-//type SinonStub = Sinon.SinonStub;
-//type SinonSpy = Sinon.SinonSpy;
-
-//var sandbox: SinonSandbox,
-//    bar: app.IBar;
 
 QUnit.module("stackTests", {
     setup: () => {
